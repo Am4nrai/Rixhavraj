@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Rixhavraj
+- 👋 Hi, I’m @Am4nrai
 - 👀 I’m interested in making different things
 - 🌱 I’m currently learning backend and Cybersecurity
 - 💞️ I’m looking to collaborate on making digital stuffs
-- 📫 How to reach me rixhavraj@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a rare blend of tech-savvy skills
 
 <!---
