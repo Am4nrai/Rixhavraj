@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rixhavraj
+- 👋 Hi, I’m @Aman Rai
 - 👀 I’m interested in making different things
 - 🌱 I’m currently learning backend and Cybersecurity
 - 💞️ I’m looking to collaborate on making digital stuffs
