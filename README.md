@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Am4nrai
+- 👋 Hi, I’m @rixhavraj
 - 👀 I’m interested in making different things
 - 🌱 I’m currently learning backend and Cybersecurity
 - 💞️ I’m looking to collaborate on making digital stuffs
